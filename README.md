@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Himanshu Borole
 - 👀  I’m interested in Automation & Web / App based solutions.
-- 🌱  I’m currently learning MERN Stack, Flutter & Machine Learning.
+- 🌱  Will be studying Masters in Computer Sciene.
 - 📫  Reach me at himanshu.borole@gmail.com
 
 <!---
