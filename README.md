@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Himanshu Borole
 - 👀  I’m interested in Automation & Web / App based solutions.
-- 🌱  Will be studying Masters in Computer Sciene.
+- 🌱  Will be studying Masters in Computer Science.
 - 📫  Reach me at himanshu.borole@gmail.com
 
 <!---
