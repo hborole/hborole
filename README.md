@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Himanshu Borole
-- 👀  I’m interested in Generative AI & Distributed Systems.
+- 👀  I’m passionate about continuous learning and building solutions using innovative technologies.
 - 🌱  Currently pursuing Masters in Computer Science at USC.
 - 📫  Reach me at himanshu.borole@gmail.com
 
