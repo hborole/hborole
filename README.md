@@ -4,6 +4,7 @@
 - 🎓  My technical expertise extends to DevOps, Cloud Solutions, and Generative AI.
 - 🌩️  I'm 2x AWS Certified.
 - 🔨  You will always find me building something new.
+- 🛠️  Currently working [AI Suite](https://ai.hbofficial.com).
 - 🌱  M.S. Computer Science '24 Graduate from the University of Southern California.
 - 📫  Reach me at himanshu.borole@gmail.com
 
